@@ -11,8 +11,8 @@ We also use PR#$N for pull requests.
 Changes breaking compatibility are marked with a "* " bullet instead
 of the usual "- ".
 
-NEXT_RELEASE:
--------------
+0.14.0 (22 Feb 2019):
+---------------------
 
 * Revert the change to "pack" handling from 0.13.0 (#272), which turns
   out to break compatibility with too many projects. At this point in
